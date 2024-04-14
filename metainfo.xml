@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<presentation guid="A037BD27-3876-4D17-B6A1-A50737893C19" version="0" availableOffline="1">
+	<info>
+		<title>R=         1KΩ±5%</title>
+		<description/>
+	</info>
+	<files index="id9" thumbnail="id31" totalSize="5340835">
+		<file id="id0">data/thmb1.png</file>
+		<file id="id1">data/sound1.mp3</file>
+		<file id="id2">data/slide1.js</file>
+		<file id="id3">data/slide1.css</file>
+		<file id="id4">data/thmb2.png</file>
+		<file id="id5">data/slide2.js</file>
+		<file id="id6">data/slide2.css</file>
+		<file id="id7">data/video1.mp4</file>
+		<file id="id8">data/video2.mp4</file>
+		<file id="id9">index.html</file>
+		<file id="id10">data/player.js</file>
+		<file id="id15">data/browsersupport.js</file>
+		<file id="id16">data/apple-touch-icon.png</file>
+		<file id="id17">data/favicon.ico</file>
+		<file id="id18">data/fnt0.woff</file>
+		<file id="id19">data/fnt1.woff</file>
+		<file id="id20">data/fnt2.woff</file>
+		<file id="id21">data/fnt3.woff</file>
+		<file id="id22">data/fnt4.woff</file>
+		<file id="id23">data/fnt5.woff</file>
+		<file id="id24">data/fnt6.woff</file>
+		<file id="id25">data/html5-unsupported.html</file>
+		<file id="id26">data/img0.jpg</file>
+		<file id="id27">data/img1.png</file>
+		<file id="id28">data/img2.jpg</file>
+		<file id="id29">data/img3.jpg</file>
+		<file id="id30">data/img4.jpg</file>
+		<file id="id31">data/ismplayer/preview.png</file>
+	</files>
+</presentation>
